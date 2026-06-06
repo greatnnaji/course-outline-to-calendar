@@ -8,6 +8,10 @@ By uploading a course outline, users can generate a fully populated, importable 
 
 ---
 
+## Architecture
+
+![Architecture diagram](docs/architecture.svg)
+
 ## Table of Contents
 
 - [Overview](#overview)
