@@ -1,5 +1,10 @@
 # Course Outline to Calendar
 
+**Live Demo:** [course-outline-to-calendar.vercel.app](https://course-outline-to-calendar.vercel.app/)
+
+## Demo
+[Watch the demo](https://www.youtube.com/watch?v=I6ASMBjhsgM)
+
 ## Overview
 
 Course Outline to Calendar is an AI-powered web application that automatically converts course outline PDFs into structured calendar events. The application removes the need for students to manually extract dates, times, and schedules from academic documents and recreate them in digital calendars.
